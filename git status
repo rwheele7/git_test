@@ -1,0 +1,17 @@
+[33mcommit a63bffc51707d9360a6b371e3555df2da58eedef[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: rwheele7 <rebekah.wheeler1520@gmail.com>
+Date:   Mon Jul 24 06:53:03 2023 -0400
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 7838c4a4f6374ec1b05fe13120b2b0e28664bcff[m
+Author: rwheele7 <rebekah.wheeler1520@gmail.com>
+Date:   Mon Jul 24 06:46:14 2023 -0400
+
+    Add hello_world.txt
+
+[33mcommit c99da7a4f849c40cef5d6f9980a4697bf0696066[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: rwheele7 <131367183+rwheele7@users.noreply.github.com>
+Date:   Sun Jul 23 15:59:09 2023 -0400
+
+    Initial commit
